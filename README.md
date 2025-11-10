@@ -45,8 +45,5 @@ Home lab project demonstrating full-disk encryption, firewall, antivirus, malwar
          [Backup: External Drive / Cloud]
 
 
-## Screenshots
-- Include images of BitLocker status, firewall rules, and antivirus scans.
-
 ## Outcome
 - A fully secured personal workstation demonstrating layered security practices suitable for professional cybersecurity portfolios.
